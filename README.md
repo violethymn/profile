@@ -22,11 +22,11 @@ Currently exploring and learning new technologies!
 
 📊 GitHub Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=violethymn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violethymn&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 🎯 My Goals
@@ -36,7 +36,7 @@ Improve my problem-solving skills
 Create useful applications
 Become a better developer every day
 🌐 Connect With Me
-🐙 GitHub: @YOUR_USERNAME
+🐙 GitHub: @violethymn
 ⭐ Thanks for visiting my profile! I'm just getting started, and this is only the beginning of my coding journey.
 
 Keep learning. Keep building. Never give up! 🚀
